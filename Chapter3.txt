@@ -1,0 +1,21 @@
+2. Behavioral Questions
+
+They’ll want to assess how well you’ll fit in with the team, your ability to learn, and your work ethic.
+
+Common Behavioral Questions:
+
+Tell me about yourself.
+
+Focus on your education, personal projects, and what inspired you to pursue software engineering.
+
+Why did you choose software engineering?
+
+Discuss your passion for solving problems and how technology can make an impact.
+
+Tell me about a time you faced a challenge. How did you overcome it?
+
+You can use the STAR method (Situation, Task, Action, Result) to structure your answer.
+
+How do you stay updated with new technologies?
+
+Mention online courses, reading blogs, participating in hackathons, or contributing to open-source projects.

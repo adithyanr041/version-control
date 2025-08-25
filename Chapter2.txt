@@ -1,0 +1,15 @@
+1. Technical Skills
+
+You’ll need to demonstrate your understanding of programming languages, algorithms, and data structures. Depending on the company’s tech stack, the focus could be on:
+
+Key Areas to Review:
+
+Programming Languages: Know the basics and advanced concepts of languages like Java, C++, Python, or JavaScript (whichever is relevant to the job).
+
+Data Structures & Algorithms: Be comfortable with arrays, linked lists, stacks, queues, hashmaps, trees, graphs, and algorithms like sorting, searching, dynamic programming, and recursion.
+
+Problem-Solving: Practice coding problems on platforms like LeetCode, HackerRank, or CodeSignal. Make sure you can solve problems within a time limit.
+
+Object-Oriented Programming (OOP): Understand concepts like classes, objects, inheritance, polymorphism, and encapsulation.
+
+Database Basics: Know basic SQL queries, database design, and normalization.
